@@ -3,6 +3,6 @@
 User-agent: *
 Disallow:
 
-Sitemap: /Portfolio02/sitemap_index.xml
+Sitemap: /portfolio02/sitemap_index.xml
 # ---------------------------
 # END YOAST BLOCK
