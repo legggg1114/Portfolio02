@@ -1,0 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: /Portfolio02/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
